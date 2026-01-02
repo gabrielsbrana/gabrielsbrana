@@ -33,9 +33,8 @@ const gabriel = {
   ],
   recentWork: {
     focus_hub: "Task management platform serving 50+ users",
-    automation: "Reduced manual workflows by 60% using n8n + Oracle APEX",
-    bi_reports: "Power BI dashboards for executive decision-making",
-    clients: "Delivered 10+ B2B solutions for marketing and logistics"
+    telecom_ops: "Enterprise automation system with WhatsApp AI Agent",
+    bi_reports: "Power BI dashboards for executive decision-making"
   }
 };
 ```
@@ -71,7 +70,7 @@ const gabriel = {
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,git&perline=4" />
+<img src="https://skillicons.dev/icons?i=postgres,mongo,docker,vercel,git&perline=5" />
 <br/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -86,6 +85,7 @@ const gabriel = {
 
 <img src="https://skillicons.dev/icons?i=tailwind,vscode&perline=2" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/WAHA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </td></tr>
 </table>
@@ -138,6 +138,25 @@ Built for Focus Marketing Agency to centralize team coordination and client deli
 </td>
 <td width="50%">
 
+### 🤖 CC - Telecom Automation
+**Enterprise Automation & BI Platform** (Private)
+
+End-to-end automation ecosystem for ISP operations, featuring intelligent reporting and autonomous agents.
+
+**Stack:** Python · MongoDB · Docker · WAHA · LLMs
+
+**Impact:**
+- **Automated Reporting:** Executive dashboards sent daily/monthly via WhatsApp.
+- **AI Agent:** "Moisés Bot" handles technician queries autonomously.
+- **Data Integrity:** Real-time deduplication of WFM service orders.
+
+🔗 [Access Request](mailto:gabrielsbrana13@gmail.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📊 Defense Market Analysis
 **Financial analysis tool for defense sector stocks**
 
@@ -153,8 +172,6 @@ Python-based analytical platform with interactive visualizations for investment 
 🔗 [Repository](https://github.com/gabrielsbrana/analise-mercado-defesa)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🕸️ Network Analysis Tool
@@ -172,20 +189,6 @@ Research-grade tool for analyzing network structures using graph theory and cent
 🔗 [Repository](https://github.com/gabrielsbrana/analise-redes-empiricas)
 
 </td>
-<td width="50%">
-
-### 🚀 Your Next Project?
-**Let's build something amazing together**
-
-I specialize in:
-- SaaS platforms
-- Internal automation tools
-- Data dashboards
-- ERP integrations
-
-📧 [Let's talk](mailto:gabrielsbrana13@gmail.com)
-
-</td>
 </tr>
 </table>
 
@@ -193,9 +196,9 @@ I specialize in:
 
 ## 🔨 Currently Working On
 
+- **CC - Telecom Ops** - Integrating predictive analysis for technician performance
 - **Focus Hub v2** - Adding AI-powered task prioritization and analytics
 - **Workflow Automation Library** - Open-source n8n templates for common business processes
-- **Learning:** Advanced PostgreSQL optimization & Redis caching strategies
 
 ---
 
@@ -205,9 +208,8 @@ I specialize in:
 |---------|-------------|
 | **Custom SaaS Development** | Full-stack web applications from concept to production |
 | **Business Intelligence** | Power BI dashboards and data analysis for decision-making |
-| **Workflow Automation** | n8n-based automation to eliminate repetitive tasks |
-| **Database Design & Optimization** | PostgreSQL and Oracle APEX architecture and performance tuning |
-| **Legacy System Modernization** | Migrate outdated systems to modern tech stacks |
+| **Enterprise Automation** | End-to-end process automation using Python & AI Agents |
+| **Database Design** | Scalable architecture for high-volume data systems |
 
 > **Currently available for freelance projects and consulting**  
 > 📅 [Schedule a call](mailto:gabrielsbrana13@gmail.com)
