@@ -22,7 +22,7 @@ const gabriel = {
   role: "Fullstack Developer & Data Analyst",
   company: "@agenciafocusmarketingco-del",
   experience: "5+ years in software development & IT support",
-  education: "MBA in Data Science (2025-2026) | B.S. Systems Development",
+  education: "MBA in Data Science (2024-2026) | B.S. Systems Development",
   languages: { portuguese: "native", english: "advanced" },
   available: true,
   specialization: [
