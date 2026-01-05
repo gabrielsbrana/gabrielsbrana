@@ -219,7 +219,7 @@ Research-grade tool for analyzing network structures using graph theory and cent
 ## 🎓 Education & Certifications
 
 **Academic**
-- **MBA in Data Science** - In Progress (2025-2026)
+- **MBA in Data Science** - In Progress (2024-2026)
 - **B.S. in Systems Analysis & Development** - Unifor (2018-2021)
 
 **Professional Certifications**
