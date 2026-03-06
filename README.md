@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Gabriel+Sbrana;Fullstack+Developer+%26+Data+Analyst;Building+modern+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+👋,+I'm+Gabriel+Sbrana;Fullstack+Engineer+%26+Data+Analyst;Building+SaaS,+AI+Agents+%26+Automations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,22 +19,24 @@
 ```typescript
 const gabriel = {
   location: "Brazil 🇧🇷",
-  role: "Fullstack Developer & Data Analyst",
+  role: "Fullstack Engineer & Data Analyst",
   company: "@agenciafocusmarketingco-del",
-  experience: "5+ years in software development & IT support",
-  education: "MBA in Data Science (2024-2026) | B.S. Systems Development",
-  languages: { portuguese: "native", english: "advanced" },
-  available: true,
-  specialization: [
-    "SaaS platforms & internal tools",
-    "Business Intelligence & dashboards",
-    "Workflow automation",
-    "Database design & optimization"
+  experience: "5+ years in software engineering & IT",
+  education: [
+    "MBA in Data Science (2024-2026)", 
+    "B.S. Systems Analysis & Development"
   ],
-  recentWork: {
-    focus_hub: "Task management platform serving 50+ users",
-    telecom_ops: "Enterprise automation system with WhatsApp AI Agent",
-    bi_reports: "Power BI dashboards for executive decision-making"
+  focusAreas: [
+    "Enterprise SaaS & Web Applications",
+    "Multi-Agent AI Systems & Chatbots (n8n/WAHA)",
+    "Real-Time Comm (WebSockets, WebRTC, Jitsi)",
+    "Identity & Access Management (Keycloak/SSO)",
+    "Business Intelligence (Power BI, Oracle APEX)"
+  ],
+  currentProjects: {
+    telecom_ai: "Self-hosted WhatsApp Multi-Agent routing system",
+    con_libras: "Real-time WebRTC video signaling platform",
+    focus_hub: "Task management platform serving 50+ users"
   }
 };
 ```
@@ -45,47 +47,51 @@ const gabriel = {
   <img src="https://img.shields.io/badge/Lead%20Developer-Agência%20Focus%20Marketing-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-> I lead development at **Focus Marketing Agency**, building internal tools, dashboards, and client solutions.
+> I lead development at **Focus Marketing Agency**, building scalable internal tools, real-time communication platforms, and AI-driven automation pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 <table>
 <tr><td align="center">
 
-<b>Core Development</b>
+<b>💻 Core & Backend</b>
 
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,python&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python&perline=6" />
 
 </td></tr>
 <tr><td align="center">
 
-<b>Data & Infrastructure</b>
+<b>⚙️ Infrastructure, DB & Auth</b>
 
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongo,docker,vercel,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=postgres,mongo,docker,linux,vercel,git&perline=6" />
 <br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Keycloak-0A0A11?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/Fly.io-21134A?style=for-the-badge&logo=flydotio&logoColor=white" />
 
 </td></tr>
 <tr><td align="center">
 
-<b>UI & Automation</b>
+<b>🤖 Automation, Real-Time & BI</b>
 
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind,vscode&perline=2" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/WAHA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </td></tr>
 </table>
@@ -110,83 +116,75 @@ const gabriel = {
   </a>
 </p>
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsbrana&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Operations & Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Focus Hub
-**Enterprise task management platform**
+### 🤖 Multi-Agent Automation Systems
+**Enterprise Automation & DevOps**
 
-Built for Focus Marketing Agency to centralize team coordination and client deliverables.
+End-to-end automation ecosystems featuring intelligent WhatsApp routing and autonomous AI agents.
 
-**Stack:** React · Node.js · PostgreSQL · TailwindCSS
+**Stack:** Python · n8n · Docker · WAHA · LLMs
 
-**Impact:** 
-- 50+ daily active users
-- Real-time dashboard for executives
-- 40% faster task completion tracking
-
-🔗 [Live Demo](https://focus-hub-interno.vercel.app)
+**Impact:**
+- Self-hosted scalable architecture.
+- Real-time lead and task routing via WhatsApp.
+- Significant reduction in manual triage workload.
 
 </td>
 <td width="50%">
 
-### 🤖 CC - Telecom Automation
-**Enterprise Automation & BI Platform** (Private)
+### 📞 ConLIBRAS & Real-Time Comm
+**WebRTC Communication Platform**
 
-End-to-end automation ecosystem for ISP operations, featuring intelligent reporting and autonomous agents.
+Complex real-time platform with queue management, WebRTC signaling, and dynamic connections.
 
-**Stack:** Python · MongoDB · Docker · WAHA · LLMs
+**Stack:** React · Node.js · WebSockets · Jitsi · Fly.io 
 
 **Impact:**
-- **Automated Reporting:** Executive dashboards sent daily/monthly via WhatsApp.
-- **AI Agent:** "Moisés Bot" handles technician queries autonomously.
-- **Data Integrity:** Real-time deduplication of WFM service orders.
-
-🔗 [Access Request](mailto:gabrielsbrana13@gmail.com)
+- High availability with automated resilience flows.
+- State-of-the-art signaling for ghost-call prevention.
+- Seamless, containerized deployments.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Defense Market Analysis
-**Financial analysis tool for defense sector stocks**
+### 🎯 Focus Hub
+**Enterprise Task Management**
 
-Python-based analytical platform with interactive visualizations for investment decision-making.
+Built for Focus Marketing Agency to centralize team coordination and client deliverables with Keycloak SSO.
 
-**Stack:** Python · Streamlit · Pandas · NumPy
+**Stack:** Next.js · PostgreSQL · Keycloak · Tailwind
 
-**Impact:**
-- Processes 5+ years of market data
-- Interactive dashboards for sector comparison
-- Technical analysis automation
-
-🔗 [Repository](https://github.com/gabrielsbrana/analise-mercado-defesa)
+**Impact:** 
+- 50+ daily active users with secure Auth flows.
+- Real-time dashboard for executives.
+- 40% faster task completion tracking.
+🔗 [Live Demo](https://focus-hub-interno.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🕸️ Network Analysis Tool
-**Empirical graph mining for complex networks**
+### 📊 APEX Architecture & Data Vis.
+**Hybrid Cache & Advanced BI**
 
-Research-grade tool for analyzing network structures using graph theory and centrality metrics.
+Complex database modeling, Hybrid Cache layers on Oracle APEX, and actionable intelligence with Power BI.
 
-**Stack:** Python · NetworkX · Matplotlib
+**Stack:** Oracle APEX · PL/SQL · Power BI
 
 **Impact:**
-- Handles networks with 100K+ nodes
-- Multiple centrality algorithms
-- Publication-ready visualizations
-
-🔗 [Repository](https://github.com/gabrielsbrana/analise-redes-empiricas)
+- Dramatic DB performance increases via optimized DML.
+- Processes years of market data for immediate consumption.
+- Publication-ready analytical visualizations.
 
 </td>
 </tr>
@@ -194,38 +192,17 @@ Research-grade tool for analyzing network structures using graph theory and cent
 
 ---
 
-## 🔨 Currently Working On
-
-- **CC - Telecom Ops** - Integrating predictive analysis for technician performance
-- **Focus Hub v2** - Adding AI-powered task prioritization and analytics
-- **Workflow Automation Library** - Open-source n8n templates for common business processes
-
----
-
 ## 💼 How I Can Help Your Business
 
 | Service | Description |
 |---------|-------------|
-| **Custom SaaS Development** | Full-stack web applications from concept to production |
-| **Business Intelligence** | Power BI dashboards and data analysis for decision-making |
-| **Enterprise Automation** | End-to-end process automation using Python & AI Agents |
-| **Database Design** | Scalable architecture for high-volume data systems |
+| **AI Multi-Agent Systems** | Automate operations, internal support, and lead qualification via WhatsApp pipelines (n8n & LLMs) |
+| **Custom SaaS & WebRTC** | Full-stack robust platforms, SSO integrations (Keycloak), and real-time video/chat networks |
+| **Business Intelligence** | Power BI dashboards, complex Oracle DB models, and real-time data analysis |
+| **Enterprise Infrastructure** | Dockerization, self-hosted deployments (Linux VPS/Fly.io) and system architectures |
 
 > **Currently available for freelance projects and consulting**  
 > 📅 [Schedule a call](mailto:gabrielsbrana13@gmail.com)
-
----
-
-## 🎓 Education & Certifications
-
-**Academic**
-- **MBA in Data Science** - In Progress (2024-2026)
-- **B.S. in Systems Analysis & Development** - Unifor (2018-2021)
-
-**Professional Certifications**
-- **Google IT Support Professional** (64h)
-- **Data Science Specialization** - Infinity School (147h)
-- **Power BI** - Infinity School (24h)
 
 ---
 
