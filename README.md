@@ -20,7 +20,7 @@
 const gabriel = {
   location: "Brazil 🇧🇷",
   role: "Fullstack Engineer & Data Analyst",
-  company: "@agenciafocusmarketingco-del",
+  company: "@Focustechco",
   experience: "5+ years in software engineering & IT",
   education: [
     "MBA in Data Science (2024-2026)", 
@@ -43,11 +43,11 @@ const gabriel = {
 
 ## 🏢 Organization
 
-<a href="https://github.com/agenciafocusmarketingco-del">
-  <img src="https://img.shields.io/badge/Lead%20Developer-Agência%20Focus%20Marketing-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Focustechco">
+  <img src="https://img.shields.io/badge/Lead%20Developer-%20Focus%20Tech-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-> I lead development at **Focus Marketing Agency**, building scalable internal tools, real-time communication platforms, and AI-driven automation pipelines.
+> I lead development at **Focus Tecnology**, building scalable internal tools, real-time communication platforms, and AI-driven automation pipelines.
 
 ---
 
@@ -161,7 +161,7 @@ Complex real-time platform with queue management, WebRTC signaling, and dynamic 
 ### 🎯 Focus Hub
 **Enterprise Task Management**
 
-Built for Focus Marketing Agency to centralize team coordination and client deliverables with Keycloak SSO.
+Built for Focus Tech to centralize team coordination and client deliverables with Keycloak SSO.
 
 **Stack:** Next.js · PostgreSQL · Keycloak · Tailwind
 
