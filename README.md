@@ -20,7 +20,7 @@
 const gabriel = {
   location: "Brazil 🇧🇷",
   role: "Fullstack Engineer & Data Analyst",
-  company: "@Focustechco",
+  company: "@Focustech.co",
   experience: "5+ years in software engineering & IT",
   education: [
     "MBA in Data Science (2024-2026)", 
