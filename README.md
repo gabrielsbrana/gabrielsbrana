@@ -19,7 +19,7 @@
 ```typescript
 const gabriel = {
   location: "Brazil 🇧🇷",
-  role: "Fullstack & Fintech Engineer",
+  role: "Fullstack Engineer",
   company: "@Focustech.co",
   experience: "5+ years in software engineering & IT",
   education: [
