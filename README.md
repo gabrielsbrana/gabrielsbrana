@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+👋,+I'm+Gabriel+Sbrana;Fullstack+Engineer+%26+Data+Analyst;Building+SaaS,+AI+Agents+%26+Automations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriel+Sbrana;Fullstack+%26+Fintech+Engineer;Building+BI+Platforms%2C+Payment+Infra+%26+AI+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,24 +19,25 @@
 ```typescript
 const gabriel = {
   location: "Brazil 🇧🇷",
-  role: "Fullstack Engineer & Data Analyst",
+  role: "Fullstack & Fintech Engineer",
   company: "@Focustech.co",
   experience: "5+ years in software engineering & IT",
   education: [
-    "MBA in Data Science (2024-2026)", 
+    "MBA in Data Science (2024-2026)",
     "B.S. Systems Analysis & Development"
   ],
   focusAreas: [
-    "Enterprise SaaS & Web Applications",
+    "Fintech Infrastructure (Pix, Billing, Reconciliation)",
+    "BI Platforms & Multi-Tenant SaaS",
     "Multi-Agent AI Systems & Chatbots (n8n/WAHA)",
     "Real-Time Comm (WebSockets, WebRTC, Jitsi)",
-    "Identity & Access Management (Keycloak/SSO)",
-    "Business Intelligence (Power BI, Oracle APEX)"
+    "Identity & Access Management (Keycloak/SSO)"
   ],
-  currentProjects: {
-    telecom_ai: "Self-hosted WhatsApp Multi-Agent routing system",
-    con_libras: "Real-time WebRTC video signaling platform",
-    focus_hub: "Task management platform serving 50+ users"
+  building: {
+    izbi: "Fair-code BI platform — Go + Next.js, multi-tenant, multi-DB connectors",
+    focus_pay: "Pix-first payment infrastructure — Ruby, immutable ledger, HMAC webhooks",
+    conlibras: "Real-time accessibility platform — React, Socket.io, WebRTC, PWA",
+    focus_hub: "Enterprise task management — Next.js, Keycloak SSO, 50+ daily users"
   }
 };
 ```
@@ -47,7 +48,7 @@ const gabriel = {
   <img src="https://img.shields.io/badge/Lead%20Developer-%20Focus%20Tech-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-> I lead development at **Focus Tecnology**, building scalable internal tools, real-time communication platforms, and AI-driven automation pipelines.
+> I lead development at **Focus Technology**, building fintech infrastructure, BI platforms, real-time communication systems, and AI-driven automation pipelines.
 
 ---
 
@@ -57,12 +58,12 @@ const gabriel = {
 <table>
 <tr><td align="center">
 
-<b>💻 Core & Backend</b>
+<b>💻 Languages & Frameworks</b>
 
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,ruby,python&perline=7" />
 
 </td></tr>
 <tr><td align="center">
@@ -72,26 +73,43 @@ const gabriel = {
 </td></tr>
 <tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongo,docker,linux,vercel,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgres,mongo,sqlite,docker,linux,vercel,git&perline=7" />
 <br/>
 <img src="https://img.shields.io/badge/Keycloak-0A0A11?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Fly.io-21134A?style=for-the-badge&logo=flydotio&logoColor=white" />
 
 </td></tr>
 <tr><td align="center">
 
-<b>🤖 Automation, Real-Time & BI</b>
+<b>🤖 AI, Real-Time & BI</b>
 
 </td></tr>
 <tr><td align="center">
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/WAHA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white" />
+
+</td></tr>
+<tr><td align="center">
+
+<b>🔐 Security & Fintech</b>
+
+</td></tr>
+<tr><td align="center">
+
+<img src="https://img.shields.io/badge/AES--256--GCM-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/HMAC--SHA256_Webhooks-4A154B?style=for-the-badge&logo=webhooks&logoColor=white" />
+<img src="https://img.shields.io/badge/Immutable_Ledger-1a1a2e?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Sidekiq-B1003E?style=for-the-badge&logo=sidekiq&logoColor=white" />
 
 </td></tr>
 </table>
@@ -120,38 +138,76 @@ const gabriel = {
 
 ---
 
-## 🏆 Featured Operations & Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Multi-Agent Automation Systems
-**Enterprise Automation & DevOps**
+### 📊 izbi — BI Platform
+**Fair-Code, Multi-Tenant Business Intelligence** `private`
 
-End-to-end automation ecosystems featuring intelligent WhatsApp routing and autonomous AI agents.
+Self-hosted BI platform with a single-page dashboard builder, multi-database connectors, and enterprise-grade tenant isolation.
 
-**Stack:** Python · n8n · Docker · WAHA · LLMs
+**Stack:** Go · Next.js 16 · React 19 · SQLite (WAL) · Keycloak · Tailwind
 
-**Impact:**
-- Self-hosted scalable architecture.
-- Real-time lead and task routing via WhatsApp.
-- Significant reduction in manual triage workload.
+**Highlights:**
+- Multi-DB connectors: PostgreSQL, MySQL, MSSQL, Oracle
+- AES-256-GCM credential encryption at rest
+- Claude AI integration for intelligent data insights
+- Map visualizations (Leaflet) + interactive charts (Recharts)
+- i18n (PT/EN) with dark-first UI
 
 </td>
 <td width="50%">
 
-### 📞 ConLIBRAS & Real-Time Comm
-**WebRTC Communication Platform**
+### 💳 Focus Pay
+**Pix-First Payment Infrastructure** `private`
 
-Complex real-time platform with queue management, WebRTC signaling, and dynamic connections.
+Charging, recurrence, and reconciliation engine built for Brazilian SMEs. Designed with fintech-grade reliability from day one.
 
-**Stack:** React · Node.js · WebSockets · Jitsi · Fly.io 
+**Stack:** Ruby 3.3 · Roda · Sequel · PostgreSQL 16 · Redis · Sidekiq · Sorbet
 
-**Impact:**
-- High availability with automated resilience flows.
-- State-of-the-art signaling for ghost-call prevention.
-- Seamless, containerized deployments.
+**Highlights:**
+- Immutable ledger — no edits, only reverse entries
+- Full idempotency via `Idempotency-Key` headers
+- HMAC-SHA256 signed webhooks with exponential retry
+- Complete audit trail (actor, action, resource, diff, IP)
+- Sandbox/Production environment segregation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📞 ConLIBRAS
+**Real-Time Accessibility Platform** `private`
+
+Real-time communication platform with queue management, WebRTC signaling, and progressive web app capabilities for accessibility.
+
+**Stack:** React 19 · Vite · Socket.io · WebRTC · Jitsi · Fly.io
+
+**Highlights:**
+- PWA-enabled for offline-first access
+- Real-time signaling with ghost-call prevention
+- Queue management with automated resilience flows
+- Containerized deployments on Fly.io
+
+</td>
+<td width="50%">
+
+### 🤖 Multi-Agent AI Systems
+**Enterprise Automation & DevOps**
+
+End-to-end automation ecosystems featuring intelligent WhatsApp routing and autonomous AI agents for lead qualification and internal support.
+
+**Stack:** Python · n8n · Docker · WAHA · LLMs
+
+**Highlights:**
+- Self-hosted scalable architecture
+- Real-time lead and task routing via WhatsApp
+- Autonomous agent pipelines with LLM reasoning
+- Significant reduction in manual triage workload
 
 </td>
 </tr>
@@ -161,14 +217,15 @@ Complex real-time platform with queue management, WebRTC signaling, and dynamic 
 ### 🎯 Focus Hub
 **Enterprise Task Management**
 
-Built for Focus Tech to centralize team coordination and client deliverables with Keycloak SSO.
+Centralized team coordination and client deliverables platform with SSO and real-time executive dashboards.
 
 **Stack:** Next.js · PostgreSQL · Keycloak · Tailwind
 
-**Impact:** 
-- 50+ daily active users with secure Auth flows.
-- Real-time dashboard for executives.
-- 40% faster task completion tracking.
+**Highlights:**
+- 50+ daily active users with Keycloak SSO
+- Real-time dashboard for executives
+- 40% faster task completion tracking
+
 🔗 [Live Demo](https://focus-hub-interno.vercel.app)
 
 </td>
@@ -177,14 +234,14 @@ Built for Focus Tech to centralize team coordination and client deliverables wit
 ### 📊 APEX Architecture & Data Vis.
 **Hybrid Cache & Advanced BI**
 
-Complex database modeling, Hybrid Cache layers on Oracle APEX, and actionable intelligence with Power BI.
+Complex database modeling, hybrid cache layers on Oracle APEX, and actionable intelligence with Power BI.
 
 **Stack:** Oracle APEX · PL/SQL · Power BI
 
-**Impact:**
-- Dramatic DB performance increases via optimized DML.
-- Processes years of market data for immediate consumption.
-- Publication-ready analytical visualizations.
+**Highlights:**
+- Dramatic DB performance via optimized DML
+- Processes years of market data for immediate consumption
+- Publication-ready analytical visualizations
 
 </td>
 </tr>
@@ -196,12 +253,13 @@ Complex database modeling, Hybrid Cache layers on Oracle APEX, and actionable in
 
 | Service | Description |
 |---------|-------------|
-| **AI Multi-Agent Systems** | Automate operations, internal support, and lead qualification via WhatsApp pipelines (n8n & LLMs) |
-| **Custom SaaS & WebRTC** | Full-stack robust platforms, SSO integrations (Keycloak), and real-time video/chat networks |
-| **Business Intelligence** | Power BI dashboards, complex Oracle DB models, and real-time data analysis |
+| **Fintech Infrastructure** | Payment systems, Pix integrations, immutable ledgers, billing & reconciliation engines with audit trails |
+| **BI & Analytics Platforms** | Multi-tenant BI tools, multi-DB connectors, interactive dashboards, Power BI & Oracle APEX |
+| **AI Multi-Agent Systems** | Automate operations and lead qualification via WhatsApp pipelines (n8n, LLMs, WAHA) |
+| **Custom SaaS & WebRTC** | Full-stack platforms, SSO integrations (Keycloak), real-time video/chat networks |
 | **Enterprise Infrastructure** | Dockerization, self-hosted deployments (Linux VPS/Fly.io) and system architectures |
 
-> **Currently available for freelance projects and consulting**  
+> **Currently available for freelance projects and consulting**
 > 📅 [Schedule a call](mailto:gabrielsbrana13@gmail.com)
 
 ---
